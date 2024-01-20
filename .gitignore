@@ -3,3 +3,4 @@ collated_pdf/
 **/*.swp
 dl_class/data/dogs_and_cats/
 **/.ipynb_checkpoints
+**/*.key
