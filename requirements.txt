@@ -1,0 +1,9 @@
+pillow==10.2.0
+numpy==1.26.3
+scipy==1.11.4
+matplotlib==3.8.2
+torch==2.1.2
+torchvision==0.16.2
+tensorboard==2.15.1
+scikit-learn==1.4.0
+PySuperTuxKart==1.1.2
