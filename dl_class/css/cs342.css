@@ -1,0 +1,36 @@
+.arch {
+	background-color:#729fcf;
+	border-radius:3px;
+	border: 1px solid #2e3436;
+	padding: 2px;
+	white-space: nowrap;
+	color: black;
+	text-decoration: none;
+}
+.alg {
+	background-color:#f48080;
+	border-radius:3px;
+	border: 1px solid #2e3436;
+	padding: 2px;
+	white-space: nowrap;
+	color: black;
+	text-decoration: none;
+}
+.sup {
+	background-color:#8ae234;
+	border-radius:3px;
+	border: 1px solid #2e3436;
+	padding: 2px;
+	white-space: nowrap;
+	color: black;
+	text-decoration: none;
+}
+.app {
+	background-color:#fce94f;
+	border-radius:3px;
+	border: 1px solid #2e3436;
+	padding: 2px;
+	white-space: nowrap;
+	color: black;
+	text-decoration: none;
+}
