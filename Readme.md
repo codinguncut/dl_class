@@ -4,7 +4,7 @@ Class material from <a href="http://www.philkr.net/dl_class/">http://www.philkr.
 
 ## Getting Started
 
-- Download `https://drive.google.com/file/d/1czcJcoG06uT7-xF2_3mr9uBV3qVVb6Tg/view?usp=share_link` to `dl_class/data/dogs_and_cats`
+- Download and unzip <a href="https://drive.google.com/file/d/1czcJcoG06uT7-xF2_3mr9uBV3qVVb6Tg/view?usp=share_link">dataset</a> to `dl_class/data/dogs_and_cats`
 - `pip install -r requirements.txt`
 - `jupyter lab`
 
